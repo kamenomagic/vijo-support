@@ -16,6 +16,8 @@ Google Drive's mobile app does not allow for editing or viewing text files, and 
 
 # Additional Info
 
+See the About page in the mobile application for complete details.
+
 https://kamenomagic.github.io/vijo-support/ (Under construction)
 
 # Contact
