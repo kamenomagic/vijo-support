@@ -1,5 +1,7 @@
 # Vijo app
 
+[Download the app for iOS](https://apps.apple.com/us/app/vijo/id1585318378)
+
 # Support, Issues, Feedback, Inquiries
 
 Use the issues tab to submit feedback or issues on [Vijo Support on Github](https://github.com/kamenomagic/vijo-support)
