@@ -1,8 +1,8 @@
 # Vijo app support
 
-This is the support page for Vijo
-
 Vijo is an app that allows you to browse and modify files in your Google Drive, using your Google account. As such, it requires you to log in and allow the app to make those changes.
+
+[Download the app for iOS](https://apps.apple.com/us/app/vijo/id1585318378)
 
 # Issues
 
@@ -18,7 +18,9 @@ Google Drive's mobile app does not allow for editing or viewing text files, and 
 
 See the About page in the mobile application for complete details.
 
-https://kamenomagic.github.io/vijo-support/ (Under construction)
+https://kamenomagic.github.io/vijo-support/
+
+[Privacy Policy provided here](https://www.termsfeed.com/live/307a6916-541c-4e65-8494-c69fe2d776b8)
 
 # Contact
 
