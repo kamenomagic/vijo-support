@@ -3,6 +3,7 @@
 # Vijo app
 
 [Download the app for iOS](https://apps.apple.com/us/app/vijo/id1585318378)
+[Download the app for Android](https://play.google.com/store/apps/details?id=com.vijoapp)
 
 # Support, Issues, Feedback, Inquiries
 
